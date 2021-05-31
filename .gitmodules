@@ -1,0 +1,6 @@
+[submodule "root/opt/vim_runtime"]
+	path = root/opt/vim_runtime
+	url = https://github.com/amix/vimrc.git
+[submodule "root/opt/fzf"]
+	path = root/opt/fzf
+	url = https://github.com/junegunn/fzf.git
