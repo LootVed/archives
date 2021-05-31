@@ -1,0 +1,24 @@
+{
+    "openedPathsList": {
+        "entries": [
+            {
+                "folderUri": "file:///home/toolbox"
+            }
+        ]
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/toolbox",
+            "backupPath": "",
+            "uiState": {
+                "mode": 1,
+                "x": 336,
+                "y": 117,
+                "width": 1028,
+                "height": 770
+            }
+        },
+        "openedWindows": []
+    },
+    "pickerWorkingDir": "/home"
+}

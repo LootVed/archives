@@ -1,0 +1,26 @@
+[Default Applications]
+application/x-shellscript=codium.desktop;
+text/plain=codium.desktop;
+text/*=codium.desktop;
+application/xml=codium.desktop
+
+[Added Associations]
+application/xml=codium.desktop;atom.desktop;chromium.desktop;
+text/plain=codium.desktop;mousepad.desktop;atom.desktop;
+application/pdf=atril.desktop;libreoffice-draw.desktop;
+inode/directory=Thunar-folder-handler.desktop;
+application/x-shellscript=codium.desktop;mousepad.desktop;
+application/json=codium.desktop;mousepad.desktop;atom.desktop;
+text/csv=codium.desktop;
+image/png=ristretto.desktop;chromium.desktop;
+application/x-yaml=codium.desktop;
+text/x-matlab=codium.desktop;
+application/x-trash=codium.desktop;
+text/x-python3=codium.desktop;
+application/pkix-cert+pem=codium.desktop;
+image/jpeg=ristretto.desktop;chromium.desktop;
+application/x-desktop=codium.desktop;
+text/html=chromium.desktop;
+text/x-scheme=codium.desktop;
+text/x-log=codium.desktop;
+application/x-compressed-tar=xarchiver.desktop;
